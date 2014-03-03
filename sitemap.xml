@@ -1,31 +1,31 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
-        <loc>http://soltrain.github.io/blog/2014/02/12/hello-world/</loc>
-        <lastmod>2014-02-12T13:50:29-05:00</lastmod>
+        <loc>http://soltrain.github.io/blog/2014/02/13/hello-world/</loc>
+        <lastmod>2014-02-13T02:50:29+08:00</lastmod>
     </url>
     <url>
-        <loc>http://soltrain.github.io/blog/2014/02/14/from-zero-to-octopress-in-4-hours/</loc>
-        <lastmod>2014-03-01T17:41:49-05:00</lastmod>
+        <loc>http://soltrain.github.io/blog/2014/02/15/from-zero-to-octopress-in-4-hours/</loc>
+        <lastmod>2014-03-02T06:52:25+08:00</lastmod>
     </url>
     <url>
         <loc>http://soltrain.github.io/archives/</loc>
-        <lastmod>2014-03-01T17:41:49-05:00</lastmod>
+        <lastmod>2014-03-02T06:52:25+08:00</lastmod>
     </url>
     <url>
         <loc>http://soltrain.github.io/blog/archives/</loc>
-        <lastmod>2014-03-01T17:41:49-05:00</lastmod>
+        <lastmod>2014-03-02T06:52:25+08:00</lastmod>
     </url>
     <url>
         <loc>http://soltrain.github.io/blog/</loc>
-        <lastmod>2014-03-01T17:41:49-05:00</lastmod>
+        <lastmod>2014-03-02T06:52:25+08:00</lastmod>
     </url>
     <url>
         <loc>http://soltrain.github.io/</loc>
-        <lastmod>2014-03-01T17:41:49-05:00</lastmod>
+        <lastmod>2014-03-02T06:52:25+08:00</lastmod>
     </url>
     <url>
         <loc>http://soltrain.github.io/robots.txt</loc>
-        <lastmod>2014-02-12T13:50:29-05:00</lastmod>
+        <lastmod>2014-02-13T02:50:29+08:00</lastmod>
     </url>
 </urlset>
