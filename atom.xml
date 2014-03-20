@@ -4,7 +4,7 @@
   <title><![CDATA[Noah Solnick]]></title>
   <link href="http://soltrain.github.io/atom.xml" rel="self"/>
   <link href="http://soltrain.github.io/"/>
-  <updated>2014-03-03T11:11:50+08:00</updated>
+  <updated>2014-03-21T00:45:46+08:00</updated>
   <id>http://soltrain.github.io/</id>
   <author>
     <name><![CDATA[Noah Solnick]]></name>
@@ -12,6 +12,51 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Six OSX Apps I (and maybe you) Need.]]></title>
+    <link href="http://soltrain.github.io/blog/2014/03/19/six-osx-apps-i-and-maybe-you-need/"/>
+    <updated>2014-03-19T00:41:52+08:00</updated>
+    <id>http://soltrain.github.io/blog/2014/03/19/six-osx-apps-i-and-maybe-you-need</id>
+    <content type="html"><![CDATA[<p>Two years ago I made the long and scary jump from Windows to OSX. As a nerd from the days of DOS and Apple IIe, I had long identified myself as straight edge Windows, dismissing Macs as style over substance, <a href="http://en.wikipedia.org/wiki/IMac_G3">Fisher-Price computers</a> for elitists with money to spare.</p>
+
+<p>Then I bought a MacBook Air. Identity crisis.</p>
+
+<p>I bought it because I needed a laptop for the move to China. I was looking for good hardware quality and an easy coding platform. What I found was.. exactly what I needed. The combination of a SSD drive, rock solid OS (<a href="http://en.wikipedia.org/wiki/Darwin_(operating_system">thanks BSD</a>) and light form factor was like summiting K2 and finding a magical box of computing nirvana.</p>
+
+<p>However! OSX is not without it&rsquo;s shortcomings. So without further ado we begin <em>Ye Olde App Recommendation Post:</em></p>
+
+<h3>Alfred</h3>
+
+<p><em>Free</em><br/>
+Alfred makes your OSX Dock obsolete. Why use the slow clumsy mouse when you can access everything you need with a few keystrokes? Load it up with command-space, and you&rsquo;ll run your programs and find your files in milliseconds. Plus, once you hide the dock, you get more screen real estate. 双赢！</p>
+
+<h3>BetterTouchTool</h3>
+
+<p><em>Free</em><br/>
+System wide gestures are OSX&rsquo;s killer feature. BetterTouchTool supercharges those gestures by enabling you to make your own. Remember <em>Minority Report</em>? You can live that dream, today. Swipe up to maximize, swipe down to minimize. Tap to open/close tabs; it&rsquo;s all doable. Did I mention it&rsquo;s free?</p>
+
+<h3>Forklift</h3>
+
+<p><em>$30 USD</em><br/>
+Finder sucks. It&rsquo;s like a neutered Windows Explorer, but worse. Forklift fixes this problem with dual panes and other basic file visualization necessities.</p>
+
+<h3>Fantastical</h3>
+
+<p><em>$20 USD</em><br/>
+Google Calendar saves my life daily. However, calendars only work when you fill them up with your data. Fantastical is the fastest way to offload appointments and reminders from your brain into Goog Calendar and thus your life. Meeting with Bill Gates at 3 tomorrow afternoon? Type that exact phrase and <em>Bam!</em> it&rsquo;s in there.</p>
+
+<h3>Arq</h3>
+
+<p><em>$40 USD</em><br/>
+Sometimes bad stuff happens to good people. Theft, house fire, zombie apocalypse, etc.. etc. You should be prepared. Arq helps you prepare by backing your stuff up to Amazon AWS. You can even use it with Amazon&rsquo;s nifty new Glacier service, which will costs but a penny per gig. A PENNY PER GIG. WHAT IS THE WORLD COMING TO.</p>
+
+<h3>Flux</h3>
+
+<p><em>Free</em><br/>
+Are you a 夜猫子？ Do you stay up later than you should? Flux is for you. Flux will automatically adjust your screen&rsquo;s color levels based on time of day. What this means for you is that when you&rsquo;re working late into the night, your screen&rsquo;s blinding white LCD will be transformed into a soothing dusk glow. Your eyes will thank you, trust me.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[From Zero to Octopress in 4 Hours]]></title>
