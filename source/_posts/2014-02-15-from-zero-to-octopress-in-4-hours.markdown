@@ -3,7 +3,7 @@ layout: post
 title: "From Zero to Octopress in 4 Hours"
 date: 2014-02-15 09:01:20 +0800
 comments: true
-categories: tech, life 
+categories: tech life 
 ---
 After sitting on the todo list for about an eternity, I've finally knuckled down to push this blog onto the interwebs. This supersedes my old blog - *Ghettotoyota.com*, dating way back to high school / college years. I dedicate this new blog to you, 1988 Toyota Tercel; may you continue to live your [*Initial D*](http://en.wikipedia.org/wiki/Initial_D) dreams in Thug Mansion.
 
