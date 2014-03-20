@@ -31,7 +31,7 @@ Google Calendar saves my life daily. However, calendars only work when you fill 
 
 ###Arq
 *$40 USD*  
-Sometimes bad stuff happens to good people. Theft, house fire, zombie apocalypse, etc.. etc. You should be prepared. Arq helps you prepare by backing your stuff up to Amazon AWS. You can even use it with Amazon's nifty new Glacier service, which will costs but a penny per gig. A PENNY PER GIG. WHAT IS THE WORLD COMING TO. 
+Sometimes bad stuff happens to good people. Theft, house fire, zombie apocalypse, etc.. etc. You should be prepared. Arq helps you prepare by backing your stuff up to Amazon AWS. You can even use it with Amazon's nifty new Glacier service, which costs but a penny per gig. A PENNY PER GIG. WHAT IS THE WORLD COMING TO. 
 
 ###Flux
 *Free*  
