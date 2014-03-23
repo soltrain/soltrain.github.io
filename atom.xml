@@ -4,7 +4,7 @@
   <title><![CDATA[Noah Solnick]]></title>
   <link href="http://soltrain.github.io/atom.xml" rel="self"/>
   <link href="http://soltrain.github.io/"/>
-  <updated>2014-03-21T13:47:08+08:00</updated>
+  <updated>2014-03-23T11:21:39+08:00</updated>
   <id>http://soltrain.github.io/</id>
   <author>
     <name><![CDATA[Noah Solnick]]></name>
@@ -12,6 +12,19 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Shanghai Barcamp Spring 2014 Presentation]]></title>
+    <link href="http://soltrain.github.io/blog/2014/03/23/shanghai-barcamp-spring-2014-presentation/"/>
+    <updated>2014-03-23T11:14:03+08:00</updated>
+    <id>http://soltrain.github.io/blog/2014/03/23/shanghai-barcamp-spring-2014-presentation</id>
+    <content type="html"><![CDATA[<h1>Welcome Shanghai Barcampers!</h1>
+
+<p>Thanks for coming to my talk. As promised, here&rsquo;s the link to the slide deck so you can follow along at home:</p>
+
+<h3><a href="https://www.dropbox.com/s/c1noznfnnyai377/barcampspring2014.pptx">Download PPT here</a></h3>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Six OSX Apps I (and maybe you) Need.]]></title>
