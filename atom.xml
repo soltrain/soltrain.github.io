@@ -4,7 +4,7 @@
   <title><![CDATA[Noah Solnick]]></title>
   <link href="http://soltrain.github.io/atom.xml" rel="self"/>
   <link href="http://soltrain.github.io/"/>
-  <updated>2015-04-14T11:57:53+08:00</updated>
+  <updated>2016-01-17T16:53:36-05:00</updated>
   <id>http://soltrain.github.io/</id>
   <author>
     <name><![CDATA[Noah Solnick]]></name>
@@ -16,7 +16,7 @@
   <entry>
     <title type="html"><![CDATA[Shanghai Barcamp Spring 2015]]></title>
     <link href="http://soltrain.github.io/blog/2015/03/13/shanghai-barcamp-spring-2015/"/>
-    <updated>2015-03-13T23:16:10+08:00</updated>
+    <updated>2015-03-13T11:16:10-04:00</updated>
     <id>http://soltrain.github.io/blog/2015/03/13/shanghai-barcamp-spring-2015</id>
     <content type="html"><![CDATA[<h1>Welcome Shanghai Barcampers! (again)</h1>
 
@@ -26,9 +26,9 @@
   
   <entry>
     <title type="html"><![CDATA[Shanghai Barcamp Spring 2014 Presentation]]></title>
-    <link href="http://soltrain.github.io/blog/2014/03/23/shanghai-barcamp-spring-2014-presentation/"/>
-    <updated>2014-03-23T11:14:03+08:00</updated>
-    <id>http://soltrain.github.io/blog/2014/03/23/shanghai-barcamp-spring-2014-presentation</id>
+    <link href="http://soltrain.github.io/blog/2014/03/22/shanghai-barcamp-spring-2014-presentation/"/>
+    <updated>2014-03-22T23:14:03-04:00</updated>
+    <id>http://soltrain.github.io/blog/2014/03/22/shanghai-barcamp-spring-2014-presentation</id>
     <content type="html"><![CDATA[<h1>Welcome Shanghai Barcampers!</h1>
 
 <p>Thanks for coming to my talk. As promised, here&rsquo;s the link to the slide deck so you can follow along at home:</p>
@@ -39,9 +39,9 @@
   
   <entry>
     <title type="html"><![CDATA[Six OSX Apps I (and maybe you) Need.]]></title>
-    <link href="http://soltrain.github.io/blog/2014/03/19/six-osx-apps-i-and-maybe-you-need/"/>
-    <updated>2014-03-19T00:41:52+08:00</updated>
-    <id>http://soltrain.github.io/blog/2014/03/19/six-osx-apps-i-and-maybe-you-need</id>
+    <link href="http://soltrain.github.io/blog/2014/03/18/six-osx-apps-i-and-maybe-you-need/"/>
+    <updated>2014-03-18T12:41:52-04:00</updated>
+    <id>http://soltrain.github.io/blog/2014/03/18/six-osx-apps-i-and-maybe-you-need</id>
     <content type="html"><![CDATA[<p>Two years ago I made the long and scary jump from Windows to OSX. As a nerd from the days of DOS and Apple IIe, I had long identified myself as straight edge Windows, dismissing Macs as style over substance, <a href="http://en.wikipedia.org/wiki/IMac_G3">Fisher-Price computers</a> for elitists with money to spare.</p>
 
 <p>Then I bought a MacBook Air. Identity crisis.</p>
@@ -84,9 +84,9 @@ Are you a 夜猫子？ Do you stay up later than you should? Flux is for you. Fl
   
   <entry>
     <title type="html"><![CDATA[From Zero to Octopress in 4 Hours]]></title>
-    <link href="http://soltrain.github.io/blog/2014/02/15/from-zero-to-octopress-in-4-hours/"/>
-    <updated>2014-02-15T09:01:20+08:00</updated>
-    <id>http://soltrain.github.io/blog/2014/02/15/from-zero-to-octopress-in-4-hours</id>
+    <link href="http://soltrain.github.io/blog/2014/02/14/from-zero-to-octopress-in-4-hours/"/>
+    <updated>2014-02-14T20:01:20-05:00</updated>
+    <id>http://soltrain.github.io/blog/2014/02/14/from-zero-to-octopress-in-4-hours</id>
     <content type="html"><![CDATA[<p>After sitting on the todo list for about an eternity, I&rsquo;ve finally knuckled down to push this blog onto the interwebs. This supersedes my old blog &ndash; <em>Ghettotoyota.com</em>, dating way back to high school / college years. I dedicate this new blog to you, 1988 Toyota Tercel; may you continue to live your <a href="http://en.wikipedia.org/wiki/Initial_D"><em>Initial D</em></a> dreams in Thug Mansion.</p>
 
 <p>One of the most beautiful things about the internet is the sheer volume of easily accessible knowledge. In the spirit of contributing to that idea, what follows is the quick mind dump of how I brought this baby online.</p>
@@ -177,9 +177,9 @@ Are you a 夜猫子？ Do you stay up later than you should? Flux is for you. Fl
   
   <entry>
     <title type="html"><![CDATA[Hello World.]]></title>
-    <link href="http://soltrain.github.io/blog/2014/02/13/hello-world/"/>
-    <updated>2014-02-13T01:32:32+08:00</updated>
-    <id>http://soltrain.github.io/blog/2014/02/13/hello-world</id>
+    <link href="http://soltrain.github.io/blog/2014/02/12/hello-world/"/>
+    <updated>2014-02-12T12:32:32-05:00</updated>
+    <id>http://soltrain.github.io/blog/2014/02/12/hello-world</id>
     <content type="html"><![CDATA[
 ]]></content>
   </entry>
