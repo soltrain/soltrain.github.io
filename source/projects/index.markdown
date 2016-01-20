@@ -6,13 +6,21 @@ comments: true
 sharing: true
 footer: true
 ---
-##Projects
+##Things I've made
 
 
 ###CONTACTDalian
-{% img /images/ARG/temp.jpg 150 250  'Statue in Dalian' %}
+{% img /images/ARG/demo2.jpg 250 %}
+{% img /images/ARG/demo.jpg 250 %}
+{% img /images/ARG/demo3.jpg 250 %}
 
-An [alternate reality game](https://en.wikipedia.org/wiki/Alternate_reality_game), where players worked with a sentient AI to infiltrate research offices, steal data and of course …save the world. 
+
+An [alternate reality game](https://en.wikipedia.org/wiki/Alternate_reality_game), where players worked with a sentient AI to infiltrate research offices, steal data and of course …save the world. Created an interactive story using automated calls/SMS, partnership from local businesses, some abandoned offices and a pinch of live acting.  
+
+###Barcamp GroupHug
+A social experiment on guerrilla marketing and group dynamics. Intriguing posters + QR codes + GoPro = hugging? This one failed hardcore - learned a lot though.
+
+[Link](http://www.nsolnick.com/grouphug/)
 
 ###Mobile Film Challenge
 A 48-hour mashup of film school and film festival, where teams created and screened short films created on their cellphones. Covered by the Global Times [here](http://www.globaltimes.cn/content/944309.shtml).
@@ -35,10 +43,4 @@ A ridiculous improv game where the player is put in front of an audience and a r
 [More info](http://www.techyizu.org/recap-powerpoint-ktv/)
 
 [Pictures](https://www.flickr.com/photos/techyizu/albums/72157654848511483)
-
-
-###Barcamp GroupHug
-A social experiment on guerrilla marketing and group dynamics. This one failed hardcore - learned a lot though.
-
-[Link](http://www.nsolnick.com/grouphug/)
 
