@@ -10,9 +10,15 @@ footer: true
 
 
 ###CONTACTDalian
-{% img /images/ARG/demo2.jpg 250 %}
-{% img /images/ARG/demo.jpg 250 %}
-{% img /images/ARG/demo3.jpg 250 %}
+{% img fixed-height /images/ARG/demo2.jpg %}
+{% img fixed-height /images/ARG/demo.jpg %}
+{% img fixed-height /images/ARG/demo3.jpg %}
+{% img fixed-height /images/ARG/office.jpg %}
+{% img fixed-height /images/ARG/office2.jpg %}
+{% img fixed-height /images/ARG/transmit.jpg %}
+{% img fixed-height /images/ARG/statue.jpg %}
+
+
 
 
 An [alternate reality game](https://en.wikipedia.org/wiki/Alternate_reality_game), where players worked with a sentient AI to infiltrate research offices, steal data and of course …save the world. Created an interactive story using automated calls/SMS, partnership from local businesses, some abandoned offices and a pinch of live acting.  
