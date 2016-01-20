@@ -10,25 +10,25 @@ footer: true
 
 
 ###CONTACTDalian
-{% img fixed-height /images/ARG/demo2.jpg %}
-{% img fixed-height /images/ARG/demo.jpg %}
-{% img fixed-height /images/ARG/demo3.jpg %}
-{% img fixed-height /images/ARG/office.jpg %}
-{% img fixed-height /images/ARG/office2.jpg %}
-{% img fixed-height /images/ARG/transmit.jpg %}
-{% img fixed-height /images/ARG/statue.jpg %}
-
-
-
+{% img fixed-height /images/projects/demo2.jpg %}
+{% img fixed-height /images/projects/demo.jpg %}
+{% img fixed-height /images/projects/demo3.jpg %}
+{% img fixed-height /images/projects/office.jpg %}
+{% img fixed-height /images/projects/office2.jpg %}
+{% img fixed-height /images/projects/transmit.jpg %}
 
 An [alternate reality game](https://en.wikipedia.org/wiki/Alternate_reality_game), where players worked with a sentient AI to infiltrate research offices, steal data and of course …save the world. Created an interactive story using automated calls/SMS, partnership from local businesses, some abandoned offices and a pinch of live acting.  
 
 ###Barcamp GroupHug
+[{% img fixed-height /images/projects/hug.png %}](http://www.nsolnick.com/grouphug/)
+
 A social experiment on guerrilla marketing and group dynamics. Intriguing posters + QR codes + GoPro = hugging? This one failed hardcore - learned a lot though.
 
 [Link](http://www.nsolnick.com/grouphug/)
 
 ###Mobile Film Challenge
+[{% img fixed-height /images/projects/mfc.png %}](http://www.techyizu.org/mobile-film-challenge-2015/)
+
 A 48-hour mashup of film school and film festival, where teams created and screened short films created on their cellphones. Covered by the Global Times [here](http://www.globaltimes.cn/content/944309.shtml).
 
 [More info](http://www.techyizu.org/mobile-film-challenge-2015/)
@@ -37,6 +37,9 @@ A 48-hour mashup of film school and film festival, where teams created and scree
 
 
 ###Epic Fail: Stories of Entrepreneur Failure
+[{% img fixed-height /images/projects/fail.png %}](http://www.techyizu.org/recap-epic-fail-stories-of-entrepreneur-failure/)
+
+
 A night of true stories told by local entrepreneurs. Held in Shanghai, China. 
 
 [More info](http://www.techyizu.org/recap-epic-fail-stories-of-entrepreneur-failure/)
@@ -44,6 +47,8 @@ A night of true stories told by local entrepreneurs. Held in Shanghai, China.
 [Pictures](https://www.flickr.com/photos/techyizu/albums/72157656755158669)
 
 ###Powerpoint KTV
+{% img fixed-height /images/projects/pptktv.png %}
+
 A ridiculous improv game where the player is put in front of an audience and a random PPT. The player must then immediately give a presentation based on said PPT. Hilarity ensues.
 
 [More info](http://www.techyizu.org/recap-powerpoint-ktv/)
