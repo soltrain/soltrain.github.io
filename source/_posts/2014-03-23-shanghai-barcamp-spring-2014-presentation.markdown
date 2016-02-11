@@ -9,7 +9,7 @@ categories: tech
 
 Thanks for coming to my talk. As promised, here's the link to the slide deck so you can follow along at home:
 
-###[Download PPT here](https://www.dropbox.com/s/c1noznfnnyai377/barcampspring2014.pptx)
+###[Download PPT here](http://www.nsolnick.com/content/barcampspring2014.pptx)
 
 
  
