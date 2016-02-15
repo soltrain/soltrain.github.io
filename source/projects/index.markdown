@@ -56,5 +56,5 @@ A ridiculous improv game where the player is put in front of an audience and a r
 
 * Barcamp Shanghai Fall 2014: [User Testing and 1959 Diplomacy](http://www.nsolnick.com/content/UserTestingand1959Diplomacy.pptx)
 * Barcamp Shanghai Spring 2014: [How to Waste Time on Facebook (by building your own proxy)](http://www.nsolnick.com/content/barcampspring2014.pptx)
-
+* Barcamp Shanghai Spring 2013: [Creating an Alternate Reality Game](http://www.nsolnick.com/content/CreatingARG.pptx)
 
