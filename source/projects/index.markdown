@@ -31,8 +31,7 @@ A social experiment on guerrilla marketing and group dynamics. Intriguing poster
 
 A 48-hour mashup of film school and film festival, where teams created and screened short films created on their cellphones. Covered by the Global Times [here](http://www.globaltimes.cn/content/944309.shtml).
 
-[More info](http://www.techyizu.org/mobile-film-challenge-2015/)
-
+[More info](http://www.techyizu.org/mobile-film-challenge-2015/) / 
 [Pictures](https://www.flickr.com/photos/techyizu/albums/72157663641945986)
 
 
@@ -42,8 +41,7 @@ A 48-hour mashup of film school and film festival, where teams created and scree
 
 A night of true stories told by local entrepreneurs. Held in Shanghai, China. 
 
-[More info](http://www.techyizu.org/recap-epic-fail-stories-of-entrepreneur-failure/)
-
+[More info](http://www.techyizu.org/recap-epic-fail-stories-of-entrepreneur-failure/) / 
 [Pictures](https://www.flickr.com/photos/techyizu/albums/72157656755158669)
 
 ###Powerpoint KTV
@@ -52,6 +50,11 @@ A night of true stories told by local entrepreneurs. Held in Shanghai, China.
 A ridiculous improv game where the player is put in front of an audience and a random PPT. The player must then immediately give a presentation based on said PPT. Hilarity ensues.
 
 [More info](http://www.techyizu.org/recap-powerpoint-ktv/)
+ / [Pictures](https://www.flickr.com/photos/techyizu/albums/72157654848511483)
 
-[Pictures](https://www.flickr.com/photos/techyizu/albums/72157654848511483)
+##Talks
+
+* Barcamp Shanghai Fall 2014: [User Testing and 1959 Diplomacy](http://www.nsolnick.com/content/UserTestingand1959Diplomacy.pptx)
+* Barcamp Shanghai Spring 2014: [How to Waste Time on Facebook (by building your own proxy)](http://www.nsolnick.com/content/barcampspring2014.pptx)
+
 
